@@ -1,4 +1,4 @@
-# 👋 Nik G
+# 👋 Nik Glamuzina
 
 **AI Systems • Web Engineering • Automation**
 
