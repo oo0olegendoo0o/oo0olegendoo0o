@@ -21,6 +21,12 @@ Focused on **AI × Automation × Revenue**.
 * 🔹 **Senlo** → https://senlo.com.au
 * 🔹 **Orbitly** → https://orbitly.design
 * 🔹 **AI Playbook** → https://ai-playbook-two.vercel.app/
+Vercel:
+Car Consierge service: https://before-you-sign-five.vercel.app/
+Financial planning SOA Automation Demo + AI Blueprint: https://jfpdemo.vercel.app/ , https://jfp-2.vercel.app/
+Learn a Language with flashcards? https://language-flashcards-two.vercel.app/
+Short Term Rental Management: https://trusted-host.vercel.app/
+Property Management Iteration: https://ezpz-property.vercel.app/
 
 ---
 
